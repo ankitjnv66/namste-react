@@ -1,0 +1,27 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "Namste React Project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitjnv66/namste-react.git"
+  },
+  "keywords": [
+    "react",
+    "namste",
+    "react"
+  ],
+  "author": "Ankit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitjnv66/namste-react/issues"
+  },
+  "homepage": "https://github.com/ankitjnv66/namste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
