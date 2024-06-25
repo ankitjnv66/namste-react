@@ -1,2 +1,4 @@
 #This file is being used to ignore not required files to get commited. i.e. node module
 /node_modules
+/dist
+.parcel-cache

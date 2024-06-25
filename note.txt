@@ -1,0 +1,22 @@
+CDN link as below to bring React and React DOM in the project
+<script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+instead of this have react in package.json So we don't need to
+1. make addition call to get it in the application
+2. take care of versions or upgrade.
+
+#npm install react (not #npm install -D react,
+     as we don't want it as dev dependency, we want it as normal dependency)
+
+==============
+NPM vs NPX
+NPM is used to install some package like 
+#npm install parcel [parcel is pkg name]
+
+NPX is used to execute package like
+#npx parcel index.html
+
+
+==============
+
