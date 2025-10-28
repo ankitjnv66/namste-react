@@ -17,6 +17,11 @@ NPM is used to install some package like
 NPX is used to execute package like
 #npx parcel index.html
 
+==============
+
+//React.createElement() => Object => HTMLElement(render), when we render it on to the DOM -> It becomes Html
 
 ==============
 
+JSX - Java Script Syntax [It is not part of React it is seprate]
+JSX is not HTML in Java Script

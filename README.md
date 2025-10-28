@@ -17,3 +17,11 @@
 - Provides way to host the app on HTTPs
 - Tree Shaking - remove unused code for better performance
 - Different Dev and Prod bundle
+
+
+# React Hooks
+(Normal JS function)
+- useState()    - Superpowerful State variables in React
+- useEffect()   - 
+
+# NOTE: Whenever state variable updates React re render the component
